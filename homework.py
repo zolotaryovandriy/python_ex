@@ -1,4 +1,4 @@
-import math 
+import math
 
 print('Now we are going to learn a Math.')
 a = input(print('Choice what you want learn + * / - :'))
